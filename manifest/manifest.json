@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 258
+    "downloadCount": 259
   },
   {
     "id": "AircraftWaypoints",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 223
+    "downloadCount": 224
   },
   {
     "id": "galaxy2_voice",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3675
+    "downloadCount": 3676
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2569
+    "downloadCount": 2570
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 1966
+    "downloadCount": 1967
   },
   {
     "id": "NOCursorOverride",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1025
+    "downloadCount": 1026
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2016,7 +2016,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 146
+    "downloadCount": 147
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116615
+    "downloadCount": 116617
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 371
+    "downloadCount": 372
   },
   {
     "id": "WeatherController",
