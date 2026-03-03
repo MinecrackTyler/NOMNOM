@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 586
+    "downloadCount": 587
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -926,7 +926,7 @@
         ]
       }
     ],
-    "downloadCount": 194
+    "downloadCount": 195
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1120,7 +1120,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 85
+    "downloadCount": 86
   },
   {
     "id": "NO_Tactitools",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3709
+    "downloadCount": 3715
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2597
+    "downloadCount": 2602
   },
   {
     "id": "NOBlackBox",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116633
+    "downloadCount": 116635
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 388
+    "downloadCount": 389
   },
   {
     "id": "WeatherController",
