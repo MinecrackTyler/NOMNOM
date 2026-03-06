@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3900
+    "downloadCount": 3904
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2765
+    "downloadCount": 2767
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 2010
+    "downloadCount": 2011
   },
   {
     "id": "NOCursorOverride",
@@ -1584,7 +1584,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 210
+    "downloadCount": 211
   },
   {
     "id": "NOFFB",
@@ -1677,7 +1677,7 @@
         ]
       }
     ],
-    "downloadCount": 484
+    "downloadCount": 485
   },
   {
     "id": "NOLiveryPlus",
@@ -2016,7 +2016,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 192
+    "downloadCount": 193
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116746
+    "downloadCount": 116750
   },
   {
     "id": "skyeye_voice",
@@ -2155,7 +2155,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 34
+    "downloadCount": 36
   },
   {
     "id": "VehicleControl",
@@ -2250,7 +2250,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 779
+    "downloadCount": 780
   },
   {
     "id": "YawOnMouse",
