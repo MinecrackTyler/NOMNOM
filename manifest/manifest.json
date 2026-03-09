@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 130
+    "downloadCount": 0
   },
   {
     "id": "AtomicFramework",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 410
+    "downloadCount": 412
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 756
+    "downloadCount": 757
   },
   {
     "id": "LiveryManager",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4070
+    "downloadCount": 4071
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2903
+    "downloadCount": 2905
   },
   {
     "id": "NOBlackBox",
@@ -1958,7 +1958,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 494
+    "downloadCount": 495
   },
   {
     "id": "NuclearVOIP",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 104
+    "downloadCount": 107
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116865
+    "downloadCount": 116866
   },
   {
     "id": "skyeye_voice",
