@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 676
+    "downloadCount": 677
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 132
+    "downloadCount": 133
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116894
+    "downloadCount": 116895
   },
   {
     "id": "skyeye_voice",
