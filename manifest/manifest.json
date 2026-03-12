@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 482
+    "downloadCount": 484
   },
   {
     "id": "galaxy2_voice",
@@ -1434,7 +1434,7 @@
         ]
       }
     ],
-    "downloadCount": 4189
+    "downloadCount": 4190
   },
   {
     "id": "no-autopilot-mod",
@@ -2274,7 +2274,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 269
+    "downloadCount": 270
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2452,7 +2452,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 62
+    "downloadCount": 63
   },
   {
     "id": "VehicleControl",
