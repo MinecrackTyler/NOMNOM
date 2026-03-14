@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 411
+    "downloadCount": 412
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 532
+    "downloadCount": 533
   },
   {
     "id": "galaxy2_voice",
@@ -1596,7 +1596,7 @@
         ]
       }
     ],
-    "downloadCount": 4278
+    "downloadCount": 4279
   },
   {
     "id": "no-autopilot-mod",
@@ -1836,7 +1836,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3085
+    "downloadCount": 3086
   },
   {
     "id": "NOBlackBox",
@@ -2405,7 +2405,7 @@
         ]
       }
     ],
-    "downloadCount": 269
+    "downloadCount": 272
   },
   {
     "id": "RepairProgress",
@@ -2574,7 +2574,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 50
   },
   {
     "id": "UnitCopyPaste",
@@ -2645,7 +2645,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 599
+    "downloadCount": 600
   },
   {
     "id": "WeatherController",
