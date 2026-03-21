@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 447
+    "downloadCount": 449
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 178
+    "downloadCount": 179
   },
   {
     "id": "AtomicFramework",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 751
+    "downloadCount": 754
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 604
+    "downloadCount": 605
   },
   {
     "id": "galaxy2_voice",
@@ -1832,7 +1832,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 111
+    "downloadCount": 112
   },
   {
     "id": "MFDVideoPlayer",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4425
+    "downloadCount": 4426
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3206
+    "downloadCount": 3207
   },
   {
     "id": "NOBlackBox",
@@ -2841,7 +2841,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 326
+    "downloadCount": 327
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2949,7 +2949,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 108
+    "downloadCount": 109
   },
   {
     "id": "ThirdFaction",
@@ -3015,7 +3015,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 86
+    "downloadCount": 88
   },
   {
     "id": "UnitCopyPaste",
@@ -3117,7 +3117,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 131
+    "downloadCount": 132
   },
   {
     "id": "WSOYappinator",
