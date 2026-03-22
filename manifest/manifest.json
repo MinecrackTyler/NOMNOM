@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 144
+    "downloadCount": 149
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 144
+    "downloadCount": 149
   },
   {
     "id": "FrontlineMap",
@@ -295,7 +295,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 612
+    "downloadCount": 613
   },
   {
     "id": "galaxy2_voice",
@@ -2103,7 +2103,7 @@
         ]
       }
     ],
-    "downloadCount": 4450
+    "downloadCount": 4451
   },
   {
     "id": "no-autopilot-mod",
@@ -2343,7 +2343,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3232
+    "downloadCount": 3234
   },
   {
     "id": "NOBlackBox",
@@ -2711,7 +2711,7 @@
         ]
       }
     ],
-    "downloadCount": 1342
+    "downloadCount": 1344
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2912,7 +2912,7 @@
         ]
       }
     ],
-    "downloadCount": 419
+    "downloadCount": 420
   },
   {
     "id": "RepairProgress",
@@ -2976,7 +2976,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117102
+    "downloadCount": 117103
   },
   {
     "id": "skyeye_voice",
@@ -3228,7 +3228,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 132
+    "downloadCount": 133
   },
   {
     "id": "WSOYappinator",
@@ -3261,7 +3261,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 873
+    "downloadCount": 874
   },
   {
     "id": "YawOnMouse",
