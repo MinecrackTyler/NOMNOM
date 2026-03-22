@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3223
+    "downloadCount": 3226
   },
   {
     "id": "NOBlackBox",
@@ -3086,7 +3086,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 664
+    "downloadCount": 665
   },
   {
     "id": "WeatherController",
