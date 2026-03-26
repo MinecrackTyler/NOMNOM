@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 209
+    "downloadCount": 210
   },
   {
     "id": "AtomicFramework",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 470
+    "downloadCount": 477
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 470
+    "downloadCount": 477
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -328,7 +328,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 695
+    "downloadCount": 697
   },
   {
     "id": "galaxy2_voice",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4570
+    "downloadCount": 4571
   },
   {
     "id": "no-autopilot-mod",
@@ -2376,7 +2376,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3340
+    "downloadCount": 3341
   },
   {
     "id": "NOBlackBox",
@@ -2430,7 +2430,7 @@
         ]
       }
     ],
-    "downloadCount": 2195
+    "downloadCount": 2196
   },
   {
     "id": "NOCursorOverride",
@@ -2744,7 +2744,7 @@
         ]
       }
     ],
-    "downloadCount": 1400
+    "downloadCount": 1401
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2795,7 +2795,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 584
+    "downloadCount": 585
   },
   {
     "id": "NuclearVOIP",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 530
+    "downloadCount": 531
   },
   {
     "id": "RepairProgress",
@@ -3239,7 +3239,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 715
+    "downloadCount": 717
   },
   {
     "id": "WeatherController",
@@ -3303,7 +3303,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 907
+    "downloadCount": 909
   },
   {
     "id": "YawOnMouse",
