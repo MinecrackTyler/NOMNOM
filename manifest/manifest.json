@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 1214
+    "downloadCount": 1216
   },
   {
     "id": "CargoHookFree",
@@ -337,7 +337,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1214
+    "downloadCount": 1216
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1784,7 +1784,7 @@
         ]
       }
     ],
-    "downloadCount": 235
+    "downloadCount": 236
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -2578,7 +2578,7 @@
         ]
       }
     ],
-    "downloadCount": 2327
+    "downloadCount": 2329
   },
   {
     "id": "NOCursorOverride",
@@ -3157,7 +3157,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117511
+    "downloadCount": 117513
   },
   {
     "id": "skyeye_voice",
@@ -3418,7 +3418,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 197
+    "downloadCount": 199
   },
   {
     "id": "WSOYappinator",
