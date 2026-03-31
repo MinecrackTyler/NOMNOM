@@ -38,7 +38,7 @@
         }
       }
     ],
-    "downloadCount": 37
+    "downloadCount": 43
   },
   {
     "id": "AIAircraftLimit",
@@ -251,7 +251,39 @@
         }
       }
     ],
-    "downloadCount": 1209
+    "downloadCount": 1214
+  },
+  {
+    "id": "CargoHookFree",
+    "displayName": "Cargo Hook Free",
+    "description": "Removes the CanSlingLoad restriction from the cargo hook system, allowing you to hook any unit — aircraft, buildings, anything. Same controls, stock physics unchanged.",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/CargoHookFree"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "CargoHookFree",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "CargoHookFree.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/CargoHookFree/releases/download/v1.0.0/CargoHookFree.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 13
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -305,7 +337,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1209
+    "downloadCount": 1214
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -378,7 +410,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 905
+    "downloadCount": 908
   },
   {
     "id": "galaxy2_voice",
@@ -598,6 +630,39 @@
         ]
       }
     ]
+  },
+  {
+    "id": "LocalizationPatch.Belarusian",
+    "displayName": "Belarusian Localization Patch",
+    "description": "Belarusian (Беларуская) translation for Nuclear Option. Full translation including UI, missions, scenarios, vehicles, weapons.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-BelarusianPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-BelarusianPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_blr.zip",
+        "version": "2.9.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-BelarusianPatch/releases/download/v2.9.0/LocalizationPatch_blr.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 0
   },
   {
     "id": "LocalizationPatch.French",
@@ -1131,7 +1196,7 @@
         ]
       }
     ],
-    "downloadCount": 266
+    "downloadCount": 267
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -1989,6 +2054,39 @@
     "downloadCount": 49
   },
   {
+    "id": "LocalizationPatch.Ukrainian",
+    "displayName": "Ukrainian Localization Patch",
+    "description": "Ukrainian (Українська) translation for Nuclear Option. ~1800 translated strings including UI, missions, scenarios, vehicles, weapons.",
+    "tags": [
+      "mod",
+      "Localization"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/NuclearOption-UkrainianPatch"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "NuclearOption-UkrainianPatch",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "LocalizationPatch_ua.zip",
+        "version": "2.9.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/9138noms/NuclearOption-UkrainianPatch/releases/download/v2.9.0/LocalizationPatch_ua.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 2
+  },
+  {
     "id": "MapLoader",
     "displayName": "Custom Map Loader",
     "description": "Load custom terrain and maps via AssetBundles. Create and share custom battle environments.",
@@ -2048,7 +2146,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 348
+    "downloadCount": 349
   },
   {
     "id": "NO_Tactitools",
@@ -2186,7 +2284,7 @@
         ]
       }
     ],
-    "downloadCount": 4884
+    "downloadCount": 4885
   },
   {
     "id": "no-autopilot-mod",
@@ -2426,7 +2524,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3629
+    "downloadCount": 3630
   },
   {
     "id": "NOBlackBox",
@@ -2605,7 +2703,7 @@
         ]
       }
     ],
-    "downloadCount": 678
+    "downloadCount": 679
   },
   {
     "id": "NOLiveryPlus",
@@ -2845,7 +2943,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 662
+    "downloadCount": 664
   },
   {
     "id": "NuclearVOIP",
@@ -2995,7 +3093,7 @@
         ]
       }
     ],
-    "downloadCount": 823
+    "downloadCount": 824
   },
   {
     "id": "RepairProgress",
@@ -3289,7 +3387,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 869
+    "downloadCount": 871
   },
   {
     "id": "WeatherController",
@@ -3353,7 +3451,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1019
+    "downloadCount": 1021
   },
   {
     "id": "YawOnMouse",
