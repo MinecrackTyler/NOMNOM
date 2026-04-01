@@ -38,7 +38,7 @@
         }
       }
     ],
-    "downloadCount": 108
+    "downloadCount": 110
   },
   {
     "id": "AIAircraftLimit",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 1456
+    "downloadCount": 1464
   },
   {
     "id": "CargoHookFree",
@@ -337,7 +337,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1456
+    "downloadCount": 1464
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -3387,7 +3387,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 919
+    "downloadCount": 922
   },
   {
     "id": "WeatherController",
